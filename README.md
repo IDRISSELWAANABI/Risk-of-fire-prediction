@@ -34,6 +34,7 @@ The main steps of the project include:
 ## Dataset
 
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/). It contains various features related to fire risk in Morocco.
+link : <https://www.kaggle.com/datasets/ayoubjadouli/morocco-wildfire-predictions-2010-2022-ml-dataset>
 
 ## Model Performance
 
@@ -84,6 +85,5 @@ This project demonstrates a structured and methodical approach to machine learni
 
 We would like to thank Kaggle for providing the dataset and the open-source community for their contributions to the tools and libraries used in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
