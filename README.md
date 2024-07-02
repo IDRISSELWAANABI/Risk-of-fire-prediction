@@ -48,7 +48,6 @@ The project's key steps ensured a robust and well-optimized neural network model
 - **Pandas**
 - **NumPy**
 - **Scikit-learn**
-- **Matplotlib** (for visualization, if applicable)
 
 
 
