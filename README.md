@@ -50,32 +50,7 @@ The project's key steps ensured a robust and well-optimized neural network model
 - **Scikit-learn**
 - **Matplotlib** (for visualization, if applicable)
 
-## Usage
 
-To run this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/fire-risk-prediction.git
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Prepare the dataset:
-    - Download the dataset from [Kaggle](https://www.kaggle.com/) and place it in the appropriate directory.
-
-4. Run the training script:
-    ```bash
-    python train_model.py
-    ```
-
-5. Evaluate the model:
-    ```bash
-    python evaluate_model.py
-    ```
 
 ## Conclusion
 
